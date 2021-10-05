@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm E VEERANJANEYULU</h1>
-<h3 align="center">A passionate python developer from India</h3>
+<h3 align="center">A passionate python developer</h3>
 
 - 👀 I’m interested in learning **web development** 
 - 🌱 I’m currently learning **javaScript**
